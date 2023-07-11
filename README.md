@@ -5,5 +5,5 @@ Most assignments in this repository will be opened and executed in Google Colab.
 
 Here is an introductory video on using Colab: <a href="https://www.youtube.com/watch?v=RLYoEyIHL6A">Google Colab for Beginners</a><br><br>
 <ul>
-  <li>Assignment 1: <a href="Exploring the Penguins Dataset (opens in Google Colab, follow all instructions)</li>
+  <li>Assignment 1: <a href="https://githubtocolab.com/plthomps/UNCC-Data-Mining-Summer-2023/blob/main/Exploring_Penguins.ipynb">Exploring the Penguins Dataset</a> (opens in Google Colab, follow all instructions)</li>
 </ul>
