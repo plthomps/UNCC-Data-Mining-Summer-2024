@@ -7,4 +7,5 @@ Here is an introductory video on using Colab: <a href="https://www.youtube.com/w
 <ul>
   <li>Assignment 1: <a href="https://githubtocolab.com/plthomps/UNCC-Data-Mining-Summer-2023/blob/main/Exploring_Penguins.ipynb">Exploring the Penguins Dataset</a> (opens in Google Colab, follow all instructions)</li>
     <li>Assignment 2: <a href="https://githubtocolab.com/plthomps/UNCC-Data-Mining-Summer-2023/blob/main/Lab_Exercise_2.ipynb">Exploring and Wrangling the Boston Dataset</a> (opens in Google Colab, follow all instructions)</li>
+      <li>Assignment 3: <a href="https://githubtocolab.com/plthomps/UNCC-Data-Mining-Summer-2023/blob/main/Detecting_Shark_Presence.ipynb">Understanding Shark Presence in Near Shore Waters</a> (opens in Google Colab, follow all instructions)</li>
 </ul>
