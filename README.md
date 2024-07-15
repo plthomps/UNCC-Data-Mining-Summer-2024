@@ -1,5 +1,5 @@
 # UNCC-Data-Mining-Summer-2024
-Repository for the Summer 2024 Data Mining Class at UNC Charlotte taught by Dr. Pamela Thompson (plthomps@uncc.edu). The TA for class is Jaichandra Jadhav (jjadhav1@charlotte.edu).
+Repository for the Summer 2024 Data Mining Class at UNC Charlotte taught by Dr. Pamela Thompson (plthomps@uncc.edu). The TA's for class are Jaichandra Jadhav (jjadhav1@charlotte.edu) and Rahul Radav (ryadav7@charlotte.edu).
 
 Most assignments in this repository will be opened and executed in Google Colab. The link for each assignment will open in Colab and the assignment has instructions for saving and submitting your work. You can visit https://colab.research.google.com and upload your own notebooks (python files with extension .ipynb) to colab using File . . . Upload.<br>
 
