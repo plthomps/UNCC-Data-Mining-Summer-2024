@@ -10,6 +10,6 @@ Here is an introductory video on using Colab: <a href="https://www.youtube.com/w
 </li>
 </ul>
 <ul>Additional Examples
-  <li>Example 1: <a href="https://githubtocolab.com/plthomps/UNCC-Data-Mining-Summer-2025/blob/main/Lab_Exercise_2.ipynb">Exploring and Wrangling the Boston Dataset</a> (opens in Google Colab, follow all instructions)</li>
+  <li>Example 1: <a href="https://githubtocolab.com/plthomps/UNCC-Data-Mining-Summer-2025/blob/main/Boston_Data_Exploration.ipynb">Exploring and Wrangling the Boston Dataset</a> (opens in Google Colab, follow all instructions)</li>
   <li>Example 2: <a href="https://githubtocolab.com/plthomps/UNCC-Data-Mining-Summer-2025/blob/main/Detecting_Shark_Presence.ipynb">Understanding Shark Presence in Near Shore Waters</a> (opens in Google Colab, follow all instructions)</li>
 </ul>
