@@ -6,6 +6,7 @@ Most assignments in this repository will be opened and executed in Google Colab.
 
 <ul>Assignments
   <li>Assignment 1: <a href="https://githubtocolab.com/plthomps/UNCC-Data-Mining-Summer-2025/blob/main/Boston_Data_Exploration.ipynb">Exploring and Wrangling the Boston Dataset</a> (opens in Google Colab, follow all instructions)</li>
+  <li>Assignment 2: <a href="https://githubtocolab.com/plthomps/UNCC-Data-Mining-Summer-2025/blob/main/Titanic_with_XAI.ipynb">Random Forest Modeling and XAI with the Titanic Dataset</a> (opens in Google Colab, follow all instructions)</li>
 </li>
 </ul>
 <ul>Resources for Class
