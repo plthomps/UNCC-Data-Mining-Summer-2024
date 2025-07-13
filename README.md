@@ -9,6 +9,6 @@ Most assignments in this repository will be opened and executed in Google Colab.
 </li>
 </ul>
 <ul>Resources for Class
-  <li>Detecting Shark Presence: <a href="https://githubtocolab.com/plthomps/UNCC-Data-Mining-Summer-2025/blob/main/Detecting_Shark_Presence.ipynb">Understanding Shark Presence in Near Shore Waters</a> (opens in Google Colab, follow all instructions)</li>
   <li>Introductory video on using Colab: <a href="https://www.youtube.com/watch?v=RLYoEyIHL6A">Google Colab for Beginners</a></li>
+  <li>Detecting Shark Presence: <a href="https://githubtocolab.com/plthomps/UNCC-Data-Mining-Summer-2025/blob/main/Detecting_Shark_Presence.ipynb">Understanding Shark Presence in Near Shore Waters</a> (opens in Google Colab, follow all instructions)</li>
 </ul>
